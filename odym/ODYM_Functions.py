@@ -24,11 +24,11 @@ Repository for this class, documentation, and tutorials: https://github.com/IndE
 import os
 import logging
 import numpy as np
-#import pandas as pd
+# import pandas as pd
 import xlrd
 import openpyxl
 import pypandoc
-import ODYM_Classes as msc
+import odym.ODYM_Classes as msc
 
 ####################################
 #      Define functions            #
